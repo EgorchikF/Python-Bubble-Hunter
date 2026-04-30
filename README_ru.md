@@ -23,4 +23,4 @@
 
 ### Скачать игру 🚀
 Перейди во вкладку **[Releases](https://github.com/EgorchikF/Python-Bubble-Hunter/releases/tag/Release)** и скачай файл  
-`Bubble_Hunter.exe` (только для Windows).
+`Bubble_Hunter_ru.exe` (только для Windows).
