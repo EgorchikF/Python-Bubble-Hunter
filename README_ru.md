@@ -22,5 +22,5 @@
 - **↑ ↓** — двигаться вверх / вниз  
 
 ### Скачать игру 🚀
-Перейди во вкладку **[Releases](https://github.com/ВАШ_НИК/ВАШ_РЕПО/releases)** и скачай файл  
+Перейди во вкладку **[Releases](https://github.com/EgorchikF/Python-Bubble-Hunter/releases/tag/Release)** и скачай файл  
 `Bubble_Hunter.exe` (только для Windows).
