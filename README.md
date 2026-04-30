@@ -7,7 +7,7 @@
 ---
 
 ### About the project 📖
-This game was the subject of my **individual college project**.  
+This game was the topic of my **individual project** in my freshman year in college.  
 I decided to make it publicly available so that anyone can play and enjoy this simple yet addictive gameplay.
 
 ### How to play 🐟
