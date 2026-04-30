@@ -2,7 +2,7 @@
 
 **Весёлая аркадная игра про подводную лодку!**
 
-**🌍[English Version (Английская версия)](README_EN.md)**
+**🌍[English Version (Английская версия)](https://github.com/EgorchikF/Python-Bubble-Hunter/blob/main/README.md)**
 
 ---
 
