@@ -1,21 +1,26 @@
-Эта игра была темой моего индивидуального проекта в колледже. Сейчас, спустя пару дней после защиты проекта, я решил выложить её в открытый доступ, чтобы любой мог в неё поиграть.
+# 🎮 Bubble Hunter 🫧
 
-Правила игры просты:
-Игрок должен управлять подводной лодкой и протыкать пузыри, которые будут появляться в случайных местах на экране.
-Управление осуществляется стрелками на клавиатуре. За протыкание пузырей игрок получает очки.
-Первоначальное время игры у игрока — 30 секунд.
-Каждые 1000 очков добавляют ещё время. Игра заканчивается, когда истекает время.
+**Fun arcade game about a submarine!**
 
-Игра была написана на языке программирования Python с использованием библиотек Pygame, Pygame_menu и Random (точнее, из неё была использована функция randint).
-Чтобы запустить игру, вам нужно установить библиотеки. Делается это следующими командами:
-1. pip3 install pygame
-2. pip3 install pygame_menu
+**🌍[Русская версия (Russian Version)](README.md)**
 
-Демонстрация работы игры:
+---
 
+### About the project 📖
+This game was the subject of my **individual college project**.  
+I decided to make it publicly available so that anyone can play and enjoy this simple yet addictive gameplay.
 
-https://github.com/DoomerRUS/Python-Bubble-Hunter/assets/92874412/9363395e-e1af-47c4-8a21-55fca08c88dc
+### How to play 🐟
+- Control the submarine with **arrow keys**.  
+- Pop colorful bubbles to score points.  
+- You start with **30 seconds**.  
+- Every **1000 points** gives you **30 extra seconds**.  
+- **Win** by reaching **5000 points**!
 
+### Controls 🕹️
+- **← →** — move left / right  
+- **↑ ↓** — move up / down  
 
-
-Всем удачи!!!
+### Download the game 🚀
+Go to the **[Releases](https://github.com/ВАШ_НИК/ВАШ_РЕПО/releases)** tab and download  
+`Bubble_Hunter.exe` (Windows only).
