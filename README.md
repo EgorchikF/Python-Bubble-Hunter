@@ -2,7 +2,7 @@
 
 **Fun arcade game about a submarine!**
 
-**🌍[Русская версия (Russian Version)](README.md)**
+**🌍[Русская версия (Russian Version)](https://github.com/EgorchikF/Python-Bubble-Hunter/blob/main/README_ru.md)**
 
 ---
 
