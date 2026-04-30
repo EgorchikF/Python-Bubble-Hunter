@@ -1,4 +1,4 @@
-# 🎮 Bubble Hunter 🫧
+# 🎮 Bubble Hunter 🐟
 
 **Fun arcade game about a submarine!**
 
