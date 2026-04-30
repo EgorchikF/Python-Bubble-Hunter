@@ -22,5 +22,5 @@ I decided to make it publicly available so that anyone can play and enjoy this s
 - **↑ ↓** — move up / down  
 
 ### Download the game 🚀
-Go to the **[Releases](https://github.com/ВАШ_НИК/ВАШ_РЕПО/releases)** tab and download  
+Go to the **[Releases](https://github.com/EgorchikF/Python-Bubble-Hunter/releases/tag/Release)** tab and download  
 `Bubble_Hunter.exe` (Windows only).
