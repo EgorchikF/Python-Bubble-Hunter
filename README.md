@@ -23,4 +23,4 @@ I decided to make it publicly available so that anyone can play and enjoy this s
 
 ### Download the game 🚀
 Go to the **[Releases](https://github.com/EgorchikF/Python-Bubble-Hunter/releases/tag/Release)** tab and download  
-`Bubble_Hunter.exe` (Windows only).
+`Bubble_Hunter_en.exe` (Windows only).
